@@ -22,18 +22,8 @@ Client-side form validation
 Responsive and styled web pages
 
 Technologies Used:
-Technology	                  Purpose
-Java	                     Backend application development
-Java Servlets	             Handles HTTP requests and application logic
-JSP                        Dynamic web pages
-JDBC                       Database connectivity
-MySQL	                     Database
-HTML                       Web page structure
-CSS	                       Styling and layout
-JavaScript	               Client-side validation
-Apache                     Tomcat	Web server/application server
-Maven	                     Project/build management
-Eclipse           	       Development environment
+
+Java->Backend application development, Java Servlets->Handles HTTP requests and application logic, JSP->Dynamic web pages, JDBC->Database connectivity, MySQL->Database, HTML->Web page structure, CSS->Styling and layout, JavaScript->Client-side validation, Apache->Tomcat	Web server/application server, Maven->Project/build management, Eclipse->Development environment
 
 
 
