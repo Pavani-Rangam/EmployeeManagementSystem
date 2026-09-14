@@ -1,6 +1,6 @@
 Employee Management System
 
-A web-based Employee Management System developed using Java Servlets, JSP, JDBC, MySQL, HTML, CSS, and JavaScript. The application provides user registration and login, followed by an employee dashboard where users can add, view, search, update, and delete employee records.
+A Java Full Stack web application developed using Java, Servlets, JSP, JDBC, MySQL, HTML, CSS, and JavaScript.. The application provides user registration and login, followed by an employee dashboard where users can add, view, search, update, and delete employee records.
 
 Features:
 
