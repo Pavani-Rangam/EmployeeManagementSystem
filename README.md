@@ -6,23 +6,29 @@ Features:
 
 1.User Management
 
-User registration/signup
+ User registration/signup
 
-User login authentication
+ User login authentication
 
-Session-based display of the logged-in user's email
+ Session-based display of the logged-in user's email
 
-Client-side validation for email and password fields
+ Client-side validation for email and password fields
 
 2.Employee Management
 
-Add new employees
-View all employees
-Search employees by ID or name
-Update employee details
-Delete employee records
-Client-side form validation
-Responsive and styled web pages
+ Add new employees
+ 
+ View all employees
+ 
+ Search employees by ID or name
+ 
+ Update employee details
+ 
+ Delete employee records
+ 
+ Client-side form validation
+ 
+ Responsive and styled web pages
 
 Technologies Used:
 
