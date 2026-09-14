@@ -14,25 +14,25 @@ Add new employees, View all employees, Search employees by ID or name, Update em
 
 Technologies Used:
 
-Java->Backend application development
+1.Java->Backend application development
 
-1.Java Servlets->Handles HTTP requests and application logic
+2.Java Servlets->Handles HTTP requests and application logic
 
-2.JSP->Dynamic web pages, JDBC->Database connectivity
+3.JSP->Dynamic web pages, JDBC->Database connectivity
 
-3.MySQL->Database
+4.MySQL->Database
 
-4.HTML->Web page structure
+5.HTML->Web page structure
 
-5.CSS->Styling and layout
+6.CSS->Styling and layout
 
-6.JavaScript->Client-side validation
+7.JavaScript->Client-side validation
 
-7.Apache->Tomcat	Web server/application server
+8.Apache->Tomcat	Web server/application server
 
-8.Maven->Project/build management
+9.Maven->Project/build management
 
-9.Eclipse->Development environment
+10.Eclipse->Development environment
 
 
 
