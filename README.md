@@ -7,8 +7,11 @@ Features:
 1.User Management
 
 User registration/signup
+
 User login authentication
+
 Session-based display of the logged-in user's email
+
 Client-side validation for email and password fields
 
 2.Employee Management
