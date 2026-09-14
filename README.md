@@ -6,33 +6,25 @@ Features:
 
 1.User Management
 
- User registration/signup
-
- User login authentication
-
- Session-based display of the logged-in user's email
-
- Client-side validation for email and password fields
+User registration/signup, User login authentication, Session-based display of the logged-in user's email, Client-side validation for email and password fields
 
 2.Employee Management
 
- Add new employees
- 
- View all employees
- 
- Search employees by ID or name
- 
- Update employee details
- 
- Delete employee records
- 
- Client-side form validation
- 
- Responsive and styled web pages
+Add new employees, View all employees, Search employees by ID or name, Update employee details, Delete employee records, Client-side form validation, Responsive and styled web pages
 
 Technologies Used:
 
-Java->Backend application development, Java Servlets->Handles HTTP requests and application logic, JSP->Dynamic web pages, JDBC->Database connectivity, MySQL->Database, HTML->Web page structure, CSS->Styling and layout, JavaScript->Client-side validation, Apache->Tomcat	Web server/application server, Maven->Project/build management, Eclipse->Development environment
+Java->Backend application development
+
+1.Java Servlets->Handles HTTP requests and application logic
+2.JSP->Dynamic web pages, JDBC->Database connectivity
+3.MySQL->Database
+4.HTML->Web page structure
+5.CSS->Styling and layout
+6.JavaScript->Client-side validation
+7.Apache->Tomcat	Web server/application server
+8.Maven->Project/build management
+9.Eclipse->Development environment
 
 
 
